@@ -1,4 +1,5 @@
 # elm-polymer-double-event-issue
+https://github.com/edvail/double-event-issue
 ```sh
 bower install
 elm-make Main.elm --output elm.js --yes
