@@ -1,0 +1,20 @@
+{
+  "name": "double-event-issue",
+  "authors": [
+    "Ed Ilyin <ed.il@live.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-input": "PolymerElements/paper-input#^1.1.20"
+  }
+}
